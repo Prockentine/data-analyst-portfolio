@@ -5,6 +5,7 @@ Welcome to my data analysis portfolio! Here, you'll discover a selection of proj
 - [About](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#portfolio-project)
   - Python
+      - [Mean, Variance, Standard Deviation Calculator](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#mean-variance-standard-deviation-calculator)
   - SQL
   - Excel
   - Tableau
@@ -26,7 +27,7 @@ I thrive on uncovering patterns and trends in data to drive informed decision-ma
 ## Portfolio Projects
 In this section, I will showcase data analytics projects, providing a brief overview of the technology stack used to address each case.
 
-### Project 1
+### Mean Variance Standard Deviation Calculator
 **Code:**
 
 **Goal:**
