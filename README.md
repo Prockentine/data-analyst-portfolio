@@ -4,9 +4,12 @@ Welcome to my data analysis portfolio! Here, you'll discover a selection of proj
 ## Table of Contents
 - [About](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#portfolio-project)
-  - Python
+  - Python (NumPy, Pandas, Matplotlib, Seaborn)
       - [Mean, Variance, Standard Deviation Calculator](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#mean-variance-standard-deviation-calculator)
       - [Demographic Data Analyzer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#demographic-data-analyzer)
+      - [Medical Data Visualizer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#medical-data-visualizer)
+      - [Page View Time Series Visualizer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#page-view-time-series-visualizer)
+      - [Sea Level Predictor](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#sea-level-predictor)
   - SQL
   - Excel
   - Tableau
@@ -45,6 +48,24 @@ In this section, I will showcase data analytics projects, providing a brief over
 **Skills:** Grouped and aggregated data, performed mathematical and statistical operations, manipulated DataFrames and Series, & debugged and validated outputs using unit tests.
 
 **Technology:** Python, Pandas, JupyterLab, Git
+
+### Medical Data Visualizer
+**Code:**
+**Description:**
+**Skills:**
+**Technology:**
+
+### Page View Time Series Visualizer
+**Code:**
+**Description:**
+**Skills:**
+**Technology:**
+
+### Sea Level Predictor
+**Code:**
+**Description:**
+**Skills:**
+**Technology:**
 
 ## Education
 Oakland University, Rochester, MI
