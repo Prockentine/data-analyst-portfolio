@@ -6,6 +6,7 @@ Welcome to my data analysis portfolio! Here, you'll discover a selection of proj
 - [Portfolio Projects](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#portfolio-project)
   - Python
       - [Mean, Variance, Standard Deviation Calculator](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#mean-variance-standard-deviation-calculator)
+      - [Demographic Data Analyzer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#demographic-data-analyzer)
   - SQL
   - Excel
   - Tableau
@@ -35,6 +36,15 @@ In this section, I will showcase data analytics projects, providing a brief over
 **Skills:** Created a NumPy array to transform a list to a matrix, performed axis-specific computations for descriptive statistics, applied NumPy aggregation functions to calculate matrix-level and axis-level statistics, & debugged and validated outputs using unit tests.
 
 **Technology:** Python, NumPy, JupyterLab, Git
+
+### Demographic Data Analyzer
+**Code:** [demographic_data_analyzer.py](https://github.com/Prockentine/demographic-data-anayzer/blob/main/demographic_data_analyzer.py)
+
+**Description:** Analyze demographic data using Pandas for data manipulation and analysis. The dataset, extracted from the 1994 Census database, contains various demographic attributes such as age, workclass, education, occupation, and salary. Your goal is to answer a series of demographic and salary-related questions by performing calculations and operations on the data.
+
+**Skills:** Grouped and aggregated data, performed mathematical and statistical operations, manipulated DataFrames and Series, & debugged and validated outputs using unit tests.
+
+**Technology:** Python, Pandas, JupyterLab, Git
 
 ## Education
 Oakland University, Rochester, MI
