@@ -28,17 +28,13 @@ I thrive on uncovering patterns and trends in data to drive informed decision-ma
 In this section, I will showcase data analytics projects, providing a brief overview of the technology stack used to address each case.
 
 ### Mean Variance Standard Deviation Calculator
-**Code:**
+**Code:** [mean_var_std.py](https://github.com/Prockentine/mean-variance-standard-deviation-calculator/blob/main/mean_var_std.py)
 
-**Goal:**
+**Description:** Developed a Python-based calculator to compute descriptive statistics such as mean, variance, standard deviation, maximum, minimum, and sum for a 3x3 matrix using Numpy. The program accepts a list of 9 numbers, transforms it into a 3x3 Numpy array, and outputs a structured dictionary containing the computed statistics for rows, columns, and the entire matrix. Included error handling ensures the input meets the required format.
 
-**Description:**
+**Skills:** Created a NumPy array to transform a list to a matrix, performed axis-specific computations for descriptive statistics, applied NumPy aggregation functions to calculate matrix-level and axis-level statistics, & debugged and validated outputs using unit tests.
 
-**Skills:**
-
-**Technology:**
-
-**Results:**
+**Technology:** Python, NumPy, JupyterLab, Git
 
 ## Education
 Oakland University, Rochester, MI
