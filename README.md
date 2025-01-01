@@ -49,24 +49,6 @@ In this section, I will showcase data analytics projects, providing a brief over
 
 **Technology:** Python, Pandas, JupyterLab, Git
 
-### Medical Data Visualizer
-**Code:**
-**Description:**
-**Skills:**
-**Technology:**
-
-### Page View Time Series Visualizer
-**Code:**
-**Description:**
-**Skills:**
-**Technology:**
-
-### Sea Level Predictor
-**Code:**
-**Description:**
-**Skills:**
-**Technology:**
-
 ## Education
 Oakland University, Rochester, MI
 
