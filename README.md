@@ -74,14 +74,14 @@ Bachelor's Degree
 
 Majors: Sociology & Psychology
 
-Minor: German Language
+Activies: President - German Language Club, Research & Review Board Chair - OU Student Congress
 
 2010 - 2015
 
 ## Certificates
-Python for Data Science, FreeCodeCamp
+Python for Data Science, [FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-Computer programming - JavaScript and the web, Khan Academy
+Computer programming - JavaScript and the web, [Khan Academy](https://www.khanacademy.org/computing/computer-programming)
 
 ## Contact
 - LinkedIn: [@ppompeo](https://www.linkedin.com/in/ppompeo/)
