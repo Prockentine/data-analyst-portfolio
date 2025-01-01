@@ -7,9 +7,6 @@ Welcome to my data analysis portfolio! Here, you'll discover a selection of proj
   - Python (NumPy, Pandas, Matplotlib, Seaborn)
       - [Mean, Variance, Standard Deviation Calculator](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#mean-variance-standard-deviation-calculator)
       - [Demographic Data Analyzer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#demographic-data-analyzer)
-      - [Medical Data Visualizer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#medical-data-visualizer)
-      - [Page View Time Series Visualizer](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#page-view-time-series-visualizer)
-      - [Sea Level Predictor](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#sea-level-predictor)
   - SQL
   - Excel
   - Tableau
