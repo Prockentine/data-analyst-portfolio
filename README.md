@@ -10,6 +10,7 @@ Welcome to my data analysis portfolio! Here, you'll discover a selection of proj
   - SQL
   - Excel
   - Tableau
+      - [Car Sales Data Analysis](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#car-sales-data-analysis)
 - [Education](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#education)
 - [Certificates](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Prockentine/data-analyst-portfolio/blob/main/README.md#contact)
@@ -35,7 +36,7 @@ In this section, I will showcase data analytics projects, providing a brief over
 
 **Skills:** Created a NumPy array to transform a list to a matrix, performed axis-specific computations for descriptive statistics, applied NumPy aggregation functions to calculate matrix-level and axis-level statistics, & debugged and validated outputs using unit tests.
 
-**Technology:** Python, NumPy, JupyterLab, Git
+**Technology:** Python, NumPy, Jupyter Notebook, Git
 
 ### Demographic Data Analyzer
 **Code:** [demographic_data_analyzer.py](https://github.com/Prockentine/demographic-data-anayzer/blob/main/demographic_data_analyzer.py)
@@ -44,7 +45,17 @@ In this section, I will showcase data analytics projects, providing a brief over
 
 **Skills:** Grouped and aggregated data, performed mathematical and statistical operations, manipulated DataFrames and Series, & debugged and validated outputs using unit tests.
 
-**Technology:** Python, Pandas, JupyterLab, Git
+**Technology:** Python, Pandas, Jupyter Notebook, Git
+
+### Car Sales Data Analysis
+
+**Repository:** [Car Sales Report EDA](https://github.com/Prockentine/car-sales-report-eda)
+
+**Description:** This project focuses on analyzing a Car Sales dataset from Kaggle. The goal is to gain insights from the data by performing data gathering, exploration, manipulation, and creating visualizations. The main tools used for this project include pandas in Jupyter Notebook for data manipulation and Tableau for creating interactive and insightful visualizations.
+
+**Skills:** Data gathering, exploration & cleaning, manipulation, visualization, and analysis.
+
+**Technology:** Kaggle API, Python, Pandas, Jupyter Notebook, Git, Tableau
 
 ## Education
 Oakland University, Rochester, MI
